@@ -1,0 +1,16 @@
+
+{
+  "short_name": "AndonVoice",
+  "name": "Andon Voice FCT System",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/552/552408.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/?mode=select",
+  "display": "standalone",
+  "theme_color": "#020617",
+  "background_color": "#020617"
+}

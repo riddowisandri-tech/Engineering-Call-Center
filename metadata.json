@@ -1,0 +1,7 @@
+{
+  "name": "Andon Voice FCT System Call",
+  "description": "An industrial Andon system for FCT technicians featuring voice-guided alerts, operator ticketing, technician task management, and a real-time downtime dashboard.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
